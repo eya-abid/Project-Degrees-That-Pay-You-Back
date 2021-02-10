@@ -5,4 +5,4 @@ After doing some data clean up, we'll compare the recommendations from three dif
 
 This project assumes familiarity with standard tidyverse tools for R. While not required, it would also be helpful to have a prior understanding of clustering unsupervised data with k-means.
 
-The dataset used in this project is made available here by the Wall Street Journal.
+The dataset used in this project is made available here: http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html?mod=article_inline by the Wall Street Journal.
